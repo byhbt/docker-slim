@@ -1,0 +1,4 @@
+2018/12/09 07:35:52 [error] 9#9: *1 directory index of "/code/public/" is forbidden, client: 172.21.0.1, server: myapp.local, request: "GET / HTTP/1.1", host: "myapp.local"
+2018/12/09 07:35:53 [error] 9#9: *1 directory index of "/code/public/" is forbidden, client: 172.21.0.1, server: myapp.local, request: "GET / HTTP/1.1", host: "myapp.local"
+2018/12/09 07:35:53 [error] 9#9: *1 directory index of "/code/public/" is forbidden, client: 172.21.0.1, server: myapp.local, request: "GET / HTTP/1.1", host: "myapp.local"
+2018/12/09 07:35:54 [error] 9#9: *1 directory index of "/code/public/" is forbidden, client: 172.21.0.1, server: myapp.local, request: "GET / HTTP/1.1", host: "myapp.local"
